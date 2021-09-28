@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ariasdiniz
-- 👀 I’m interested in Python, Ruby, C++ and everything related to back-end and Data Science
+- 👀 I’m interested in Python, Ruby, Java and everything related to back-end and Data Science
 - 🌱 I’m currently learning Flask on Python
 - 💞️ I’m looking to collaborate on anything, to be honest.
 - 📫 How to reach me: Here on GitHub
