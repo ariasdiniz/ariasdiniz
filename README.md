@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ariasdiniz
-- 👀 I’m interested in Python, Ruby, Java and everything related to back-end and Data Science
-- 🌱 I’m currently learning DynamoDB
+- 👀 I’m interested in Ruby, Python, Java and everything related to back-end
+- 🌱 I’m currently trying to specialize in back-end tools, frameworks and techniques
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: Here on GitHub
