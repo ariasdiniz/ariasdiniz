@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ariasdiniz
-- 👀 I’m interested in Ruby, Python, Java and everything related to back-end
+- 👀 I’m interested in Ruby, C++, Java and everything related to back-end
 - 🌱 I’m currently trying to specialize in back-end tools, frameworks and techniques
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me via e-mail: aria.diniz.dev@gmail.com
