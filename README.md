@@ -1,4 +1,4 @@
-👋 Hello there, I'm @ariasdiniz!
+👋 Hello there, I'm @ariasdiniz, a brazilian woman that loves mathematics and low level programming
 
 - 🎓 MSc in Particle Physics, now transforming my passion for understanding complex systems into software development.
 - 💻 I specialize in Ruby and C. Built a web framework from scratch using only Ruby's standard library.
